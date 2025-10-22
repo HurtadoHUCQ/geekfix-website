@@ -6,13 +6,25 @@
   padding: 0;
   box-sizing: border-box;
 }
+/*Declarar Fuente*/
+@font-face {
+    font-family: 'QuickDog'; 
+    src: url('../fonts/QuickDog.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* Fondo y tipografía global */
 body {
-  background: linear-gradient(180deg, #1C1A2E 0%, #2B255F 50%, #48316B 100%);
-  color: #E2D9FF;
-  font-family: "Poppins", system-ui, sans-serif;
-  min-height: 100vh;
+    background-image: url("../images/Background.png");
+    height: 1px;
+    background-repeat: repeat;
+    background-position: center;
+    //background: linear-gradient(180deg, #1C1A2E 0%, #2B255F 50%, #48316B 100%);
+    color: #E2D9FF;
+    font-family: "QuickDog", system-ui, sans-serif;
+    min-height: 500vh;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; /* bordes negros */
 }
 
 /* ===== Navbar ===== */
