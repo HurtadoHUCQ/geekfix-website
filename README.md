@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Descripción general
+## Descripción general
 
 **GEEKFIX** es un sitio web informativo y funcional diseñado para un negocio de **reparación y mantenimiento de consolas, controles y equipos gamer**.  
 El objetivo principal es ofrecer a los clientes una experiencia visual moderna, organizada y fácil de navegar, mostrando servicios, precios y opciones de contacto.
@@ -35,7 +35,7 @@ Adaptado a dispositivos móviles, tablets y pantallas grandes.
 
 ---
 
-## 🧱 Estructura del proyecto
+## Estructura del proyecto
 geekfix-website/
 ┣ assets/
 ┃ ┣ css/
@@ -65,7 +65,7 @@ El diseño utiliza una combinación moderna basada en tonos **morado oscuro (#2A
 
 ---
 
-## 🧠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 | Tecnología | Descripción |
 |-------------|--------------|
@@ -77,9 +77,9 @@ El diseño utiliza una combinación moderna basada en tonos **morado oscuro (#2A
 
 ---
 
-## 🌐 Enlace público
+## Enlace público
 
-👉 **[Visita el sitio en línea](https://hurtadohucq.github.io/geekfix-website/)**
+**[Visita el sitio en línea](https://hurtadohucq.github.io/geekfix-website/)**
 
 ---
 
@@ -91,7 +91,7 @@ El diseño utiliza una combinación moderna basada en tonos **morado oscuro (#2A
 
 ---
 
-## 💡 Próximas mejoras (roadmap)
+## Próximas mejoras (roadmap)
 
 - [ ] Agregar chatbot para cotizaciones automáticas  
 - [ ] Sección de contacto personalizada  
@@ -101,11 +101,11 @@ El diseño utiliza una combinación moderna basada en tonos **morado oscuro (#2A
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 **Diego Eduardo Hurtado Hernández**  
 Desarrollador y diseñador de sistemas  
-📧 Contacto: [LinkedIn](www.linkedin.com/in/diegoehhucq) 
+Contacto: [LinkedIn](www.linkedin.com/in/diegoehhucq) 
 
 ---
 
