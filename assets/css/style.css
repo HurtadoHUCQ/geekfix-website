@@ -24,6 +24,7 @@ body {
     color: #E2D9FF;
     font-family: "QuickDog", system-ui, sans-serif;
     min-height: 500vh;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; /* bordes negros */
 }
 
 /* ===== Navbar ===== */
